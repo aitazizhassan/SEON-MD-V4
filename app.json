@@ -7,22 +7,22 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SEON-MD=iV4knQ4I#12Dbv4ISW3sJLzHsVsua1xYD-PGQsPZXDjfVARDdf1o",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username",
+      "description": "aitazizhassan",
       "required": true
     },
 
     "REPO_NAME": {
-      "description": "Put your like name",
+      "description": "SEON-MD-V4",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth token",
+      "description": "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",
       "required": true
     }   
 },
