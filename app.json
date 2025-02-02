@@ -17,7 +17,7 @@
     },
 
     "REPO_NAME": {
-      "description": "SEON-MD-V4",
+      "description": "SEON-MD-DATABASE",
       "required": true
     },
     
